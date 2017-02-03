@@ -1,0 +1,6 @@
+print "Hello World"
+
+n = input("insert password: ")
+
+# add what ever is password protected
+# the password dose not have a password so click enter to continue
